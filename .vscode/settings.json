@@ -1,0 +1,9 @@
+{
+    "html.autoClosingTags": false,
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingDelete": "never",
+    "editor.autoClosingOvertype": "always",
+    "javascript.autoClosingTags": false,
+    "typescript.autoClosingTags": false,
+    "editor.autoClosingQuotes": "always"
+}
